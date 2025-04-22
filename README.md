@@ -22,18 +22,18 @@ This is a small HTML project where I created a main index (`index.html`) linking
 
 Odin-Recipes/
 │
-├── images/ # Folder for recipe images
-│ ├── bolognese.jpg # Bolognese dish image
-│ ├── cocktail.png # Cocktail drink image
-│ └── omelette.png # Omelette dish image
+├── images/
+│ ├── bolognese.jpg
+│ ├── cocktail.png
+│ └── omelette.png
 │
-├── recipes/ # Folder for recipe HTML files
-│ ├── bolognese.html # Bolognese recipe page
-│ ├── cocktail.html # Cocktail recipe page
-│ └── omelette.html # Omelette recipe page
+├── recipes/
+│ ├── bolognese.html
+│ ├── cocktail.html
+│ └── omelette.html
 │
-├── index.html # Main homepage with recipe links
-└── README.md # Project documentation
+├── index.html
+└── README.md
 
 ## How to View the Project 👀
 
