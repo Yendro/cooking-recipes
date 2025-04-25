@@ -1,4 +1,4 @@
-# odin-recipes Project
+# Cooking Recipes Project
 
 This is a small HTML project where I created a main index (`index.html`) linking to three different cooking recipes. Each recipe includes an ingredient list, preparation steps, an image of the dish, and a link back to the index.
 
@@ -21,7 +21,7 @@ This is a small HTML project where I created a main index (`index.html`) linking
 ## Project Structure
 
 ```
-odin-recipes/
+cooking-recipes/
 │
 ├── images/
 │ ├── bolognese.jpg
